@@ -32,6 +32,8 @@ module GLSMod
   public :: GLS_data
   public :: GLS_ctl
 
+  ! dummy commit
+  ! dummy commit2
   type, public :: gls_varctl
      real, allocatable :: suscep_index(:)
 
