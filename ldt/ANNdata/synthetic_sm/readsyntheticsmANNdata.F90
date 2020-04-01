@@ -21,6 +21,7 @@ subroutine readsyntheticsmANNdata(n,iomode)
   use syntheticsm_ANNdataMod
   use map_utils
   use one
+  use two
 
   implicit none
 ! !ARGUMENTS: 
