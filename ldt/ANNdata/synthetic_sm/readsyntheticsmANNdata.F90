@@ -20,6 +20,7 @@ subroutine readsyntheticsmANNdata(n,iomode)
   use LDT_ANNMod
   use syntheticsm_ANNdataMod
   use map_utils
+  use one
 
   implicit none
 ! !ARGUMENTS: 
