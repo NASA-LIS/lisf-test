@@ -22,6 +22,7 @@ subroutine readsyntheticsmANNdata(n,iomode)
   use map_utils
   use one
   use two
+  use three
 
   implicit none
 ! !ARGUMENTS: 
