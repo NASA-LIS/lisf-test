@@ -20,3 +20,5 @@ export LVT_GDAL=/discover/nobackup/projects/lis/libs/gdal/2.0.0
 export LVT_FORTRANGIS=/discover/nobackup/projects/lis/libs/fortrangis/2.4
 
 export LD_LIBRARY_PATH=${LVT_HDF4}/lib:${LVT_HDF5}/lib:${LVT_LIBESMF}:${LVT_NETCDF}/lib:${LVT_GRIBAPI}/lib:$LD_LIBRARY_PATH
+
+export SOME_OTHER=variable
