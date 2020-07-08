@@ -2,6 +2,7 @@
 ! NASA Goddard Space Flight Center Land Data Toolkit (LDT) v1.0
 !-------------------------END NOTICE -- DO NOT EDIT-----------------------
 #include "LDT_misc.h"
+#include "another_file.h"
 module LDT_albedoMod
 !BOP
 !
