@@ -24,3 +24,4 @@ echo "To compile, run the compile script."
 echo "------------------------------------------------------------------------"
 echo line 1
 echo line 2
+echo line 3
