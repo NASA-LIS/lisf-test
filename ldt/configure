@@ -22,3 +22,4 @@ echo "If you wish to change settings, please edit that file."
 echo ""
 echo "To compile, run the compile script."
 echo "------------------------------------------------------------------------"
+echo line 1
