@@ -19,3 +19,4 @@ export LDT_MODESMF=/discover/nobackup/projects/lis/libs/esmf/5.2.0rp3_intel-14.0
 export LDT_LIBESMF=/discover/nobackup/projects/lis/libs/esmf/5.2.0rp3_intel-14.0.3.174_impi-5.0.3.048_sp3/lib/libO/Linux.intel.64.intelmpi.default
 
 export LD_LIBRARY_PATH=${LIS_HDF4}/lib:${LIS_HDF5}/lib:${LIS_LIBESMF}:${LIS_NETCDF}/lib:${LIS_GRIBAPI}/lib:{LIS_JASPER}/lib:$LD_LIBRARY_PATH
+export TEST="This is a test"
