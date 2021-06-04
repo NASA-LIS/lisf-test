@@ -40,3 +40,5 @@ void ft_check_index(int index, int max, char * regrtn)
       exit(-1);
    }
 }
+
+// Line 1
